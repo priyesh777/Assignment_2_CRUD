@@ -1,0 +1,142 @@
+[
+    {
+      "booksName":"To Kill a Mockingbird",
+      "isbn": "9780061120084",
+      "rating": 4.27,
+      "author": "Harper Lee",
+      "genre": "Fiction"
+    },
+    {
+        "booksName":"1984",
+        "isbn": "9780451524935",
+        "rating": 4.19,
+        "author": "George Orwell",
+        "genre": "Science Fiction"
+    },
+    {
+        "booksName":"The Great Gatsby",
+        "isbn": "9780743273565",
+        "rating": 3.92,
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic"
+    },
+    {
+        "booksName":"Harry Potter and the Philosopher's Stone",
+        "isbn": "9781408855652",
+        "rating": 4.48,
+        "author": "J.K. Rowling",
+        "genre": "Fantasy"
+    },
+    {
+        "booksName":"The Catcher in the Rye",
+        "isbn": "9780316769488",
+        "rating": 3.81,
+        "author": "J.D. Salinger",
+        "genre": "Fiction"
+    },
+    {
+        "booksName":"Pride and Prejudice",
+        "isbn": "9780486284736",
+        "rating": 4.26,
+        "author": "Jane Austen",
+        "genre": "Classic"
+    },
+    {
+        "booksName":"The Hobbit",
+        "isbn": "9780547928227",
+        "rating": 4.28,
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy"
+    },
+    {
+        "booksName":"Lord of the Flies",
+        "isbn": "9780571273577",
+        "rating": 3.68,
+        "author": "William Golding",
+        "genre": "Fiction"
+    },
+    {
+        "booksName":"The Da Vinci Code",
+        "isbn": "9780307474278",
+        "rating": 3.82,
+        "author": "Dan Brown",
+        "genre": "Thriller"
+    },
+    {
+        "booksName":"The Alchemist",
+        "isbn": "9780061122415",
+        "rating": 3.86,
+        "author": "Paulo Coelho",
+        "genre": "Fiction"
+    },
+    {
+        "booksName":"The Hunger Games",
+        "isbn": "9780439023528",
+        "rating": 4.33,
+        "author": "Suzanne Collins",
+        "genre": "Young Adult"
+    },
+    {
+        "booksName":"Gone with the Wind",
+        "isbn": "9781416548898",
+        "rating": 4.30,
+        "author": "Margaret Mitchell",
+        "genre": "Historical Fiction"
+    },
+    {
+        "booksName":"The Shining",
+        "isbn": "9780307743657",
+        "rating": 4.21,
+        "author": "Stephen King",
+        "genre": "Horror"
+    },
+    {
+        "booksName":"The Girl with the Dragon Tattoo",
+        "isbn": "9780307454546",
+        "rating": 4.14,
+        "author": "Stieg Larsson",
+        "genre": "Mystery"
+    },
+    {
+        "booksName":"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "isbn": "9780064471046",
+        "rating": 4.21,
+        "author": "C.S. Lewis",
+        "genre": "Fantasy"
+    },
+    {
+        "booksName":"Brave New World",
+        "isbn": "9780060850524",
+        "rating": 3.98,
+        "author": "Aldous Huxley",
+        "genre": "Science Fiction"
+    },
+    {
+        "booksName":"Moby-Dick",
+        "isbn": "9781853260087",
+        "rating": 3.53,
+        "author": "Herman Melville",
+        "genre": "Adventure"
+    },
+    {
+        "booksName":"The Adventures of Sherlock Holmes",
+        "isbn": "9780553212419",
+        "rating": 4.34,
+        "author": "Arthur Conan Doyle",
+        "genre": "Mystery"
+    },
+    {
+        "booksName":"The Road",
+        "isbn": "9780307387899",
+        "rating": 3.97,
+        "author": "Cormac McCarthy",
+        "genre": "Post-apocalyptic"
+    },
+    {
+        "booksName":"The Picture of Dorian Gray",
+        "isbn": "9780486278070",
+        "rating": 4.07,
+        "author": "Oscar Wilde",
+        "genre": "Gothic"
+    }
+  ]
